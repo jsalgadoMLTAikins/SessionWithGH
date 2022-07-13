@@ -1,2 +1,5 @@
 new file from user2
 Please keep this file
+
+found a few issues - this should be much better
+working this way....
